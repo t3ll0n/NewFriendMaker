@@ -1,0 +1,8 @@
+5
+Ann Bob
+Ann Mark
+Ann Kate
+Bob Mark
+Bob Beth
+Mark Kate
+Kate Beth

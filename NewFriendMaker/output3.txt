@@ -1,0 +1,99 @@
+
+Name: Tellon Smith
+Course: CS 3013 - Advanced Structures and Algorithms, Spring 16, Dr. Johnson
+Program Assignment: #5
+Due Date: Thursday, May 5, 2016, 2PM
+Purpose: This program uses a graph class containing an adjacency matrix to
+solve a problem. It reads in a file containig people at a party who knows
+each other and ouputs the introdcutions that has to be between persons so
+that everyone knows each other.
+
+Welcome to the New Friend Maker Program!
+
+----------------------------------------------------------------------
+			New Friend Maker Program
+----------------------------------------------------------------------
+
+Introductions To Be Made:
+Anna needs to meet John
+Anna needs to meet Peter
+Anna needs to meet DeQuan
+Anna needs to meet Dornelle
+Anna needs to meet Tisha
+Anna needs to meet Tyrone
+Anna needs to meet Bob
+Anna needs to meet Sherri
+Anna needs to meet Usain
+Anna needs to meet Tyson
+Anna needs to meet Allison
+Anna needs to meet Micheal
+Allen needs to meet John
+Allen needs to meet Peter
+Allen needs to meet DeQuan
+Allen needs to meet Dornelle
+Allen needs to meet Tisha
+Allen needs to meet Tyrone
+Allen needs to meet Bob
+Allen needs to meet Sherri
+Allen needs to meet Usain
+Allen needs to meet Tyson
+Allen needs to meet Allison
+Allen needs to meet Micheal
+John needs to meet DeQuan
+John needs to meet Dornelle
+John needs to meet Tisha
+John needs to meet Tyrone
+John needs to meet Bob
+John needs to meet Sherri
+John needs to meet Usain
+John needs to meet Tyson
+John needs to meet Allison
+John needs to meet Micheal
+Peter needs to meet DeQuan
+Peter needs to meet Dornelle
+Peter needs to meet Tisha
+Peter needs to meet Tyrone
+Peter needs to meet Bob
+Peter needs to meet Sherri
+Peter needs to meet Usain
+Peter needs to meet Tyson
+Peter needs to meet Allison
+Peter needs to meet Micheal
+DeQuan needs to meet Tyrone
+DeQuan needs to meet Bob
+DeQuan needs to meet Sherri
+DeQuan needs to meet Usain
+DeQuan needs to meet Tyson
+DeQuan needs to meet Allison
+DeQuan needs to meet Micheal
+Dornelle needs to meet Tisha
+Dornelle needs to meet Tyrone
+Dornelle needs to meet Bob
+Dornelle needs to meet Sherri
+Dornelle needs to meet Usain
+Dornelle needs to meet Tyson
+Dornelle needs to meet Allison
+Dornelle needs to meet Micheal
+Tisha needs to meet Bob
+Tisha needs to meet Sherri
+Tisha needs to meet Usain
+Tisha needs to meet Tyson
+Tisha needs to meet Allison
+Tisha needs to meet Micheal
+Tyrone needs to meet Bob
+Tyrone needs to meet Sherri
+Tyrone needs to meet Usain
+Tyrone needs to meet Tyson
+Tyrone needs to meet Allison
+Tyrone needs to meet Micheal
+Bob needs to meet Tyson
+Bob needs to meet Allison
+Bob needs to meet Micheal
+Sherri needs to meet Usain
+Sherri needs to meet Tyson
+Sherri needs to meet Micheal
+Usain needs to meet Micheal
+Tyson needs to meet Allison
+Tyson needs to meet Micheal
+
+Thank you for using the New Friend Maker Program... Goodbye!

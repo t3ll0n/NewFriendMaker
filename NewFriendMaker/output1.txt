@@ -1,0 +1,22 @@
+
+Name: Tellon Smith
+Course: CS 3013 - Advanced Structures and Algorithms, Spring 16, Dr. Johnson
+Program Assignment: #5
+Due Date: Thursday, May 5, 2016, 2PM
+Purpose: This program uses a graph class containing an adjacency matrix to
+solve a problem. It reads in a file containig people at a party who knows
+each other and ouputs the introdcutions that has to be between persons so
+that everyone knows each other.
+
+Welcome to the New Friend Maker Program!
+
+----------------------------------------------------------------------
+			New Friend Maker Program
+----------------------------------------------------------------------
+
+Introductions To Be Made:
+Ann needs to meet Beth
+Bob needs to meet Kate
+Mark needs to meet Beth
+
+Thank you for using the New Friend Maker Program... Goodbye!
